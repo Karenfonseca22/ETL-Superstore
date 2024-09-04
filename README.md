@@ -10,4 +10,10 @@ A lo largo de este proyecto, exploraremos en detalle los beneficios esperados, l
 
 ## Limpieza y procesamiento de datos
 
-Se identifican los datos nulos
+#### Se identifican los datos nulos 
+No tiene ningún valor nulo en la tabla de ventas, se manejarán en la creación de tablas de dimensión
+
+#### Se identifican los datos duplicados 
+No tiene ningún valor nulo en la tabla de ventas, se manejarán en la creación de tablas de dimensión
+
+
