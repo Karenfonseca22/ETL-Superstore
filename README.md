@@ -20,4 +20,42 @@ No tiene ningún valor nulo en la tabla de ventas, se manejarán en la creación
 No se trabajara con market, ni con market2, se creara Market3 que me integra Africa en EMEA
 No se trabajara con la variable unknown porque no me aporta ninguna información
 
+## Flujo de  data pipeline
+
+**Origen de los Datos (Ingesta)**
+
+Los datos provienen de archivos CSV que contienen información relacionada con las ventas, productos, clientes, y ubicaciones.
+Adicionalmente, mediante web scraping en Python (desde Google Colab), se extraen datos de tablas disponibles en páginas web sobre la competencia.
+
+**Procesamiento/Transformación (ETL)**
+
+SQL en BigQuery se utiliza para procesar y transformar los datos.
+Transformación de datos CSV: Los archivos CSV se cargan en BigQuery donde se realizan las transformaciones necesarias. Esto puede incluir la limpieza de datos, el cambio de formatos, la normalización de valores, la agregación de datos, etc.
+Web Scraping: Los datos extraídos mediante Python son limpiados y transformados dentro del flujo de trabajo para asegurar que sean coherentes con los demás datos.
+Dimensiones: Los datos se procesan para poblar tablas de dimensión. Aquí se aseguran las relaciones correctas entre las entidades como Order, Superstore_location, Product, y Customer.
+Hechos: Se actualiza la tabla de hechos (Ventas), donde se almacenan las métricas clave como ventas, costo de envío, descuentos, cantidad y beneficios.
+
+**Almacenamiento**
+
+Los datos transformados se almacenan en tablas de dimensión y hechos dentro de BigQuery.
+Tablas de Dimensión:
+Order: Contiene información detallada sobre los pedidos (ID, ciudad, región, fechas, ventas, prioridades, etc.).
+Superstore_location: Almacena las ubicaciones registradas por país, mercado y estado.
+Product: Define los productos por categorías y subcategorías.
+Customer: Define los clientes, sus segmentos y nombres.
+Tabla de Hechos:
+Ventas: Contiene los hechos relacionados con ventas, incluyendo el ID del pedido, producto, cliente, ventas totales, costos de envío, descuentos, cantidades y beneficios.
+
+**Acceso y Visualización**
+
+Los datos almacenados en las tablas diseñadas se conectan a Tableau, donde se generan reportes y dashboards interactivos. Esto permite analizar la información, visualizar patrones y tomar decisiones informadas.
+Ejemplos de visualizaciones en Tableau:
+Ventas por región y categoría de producto.
+Comparativa de ventas contra la competencia (datos obtenidos del scraping).
+Evolución de las ventas por semana y año.
+Margen de beneficios y costos de envío por ubicación.
+
+![Pipeline](https://github.com/user-attachments/assets/c02bc41d-3241-4743-97c0-15752dc7c9bc)
+
+
 
