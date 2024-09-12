@@ -16,7 +16,7 @@ No tiene ningún valor nulo en la tabla de ventas, se manejarán en la creación
 #### Se identifican los datos duplicados 
 No tiene ningún valor nulo en la tabla de ventas, se manejarán en la creación de tablas de dimensión
 
-### Discrepantes categoricas
+#### Discrepantes categoricas
 No se trabajara con market, ni con market2, se creara Market3 que me integra Africa en EMEA
 No se trabajara con la variable unknown porque no me aporta ninguna información
 
