@@ -26,7 +26,13 @@ Se exporto la tabla de este link para mirar datos de competidores y tenerlos en 
 
 ![image](https://github.com/user-attachments/assets/74e70c49-e4df-4212-9d0a-eaf68ae06e27)
 
-> La formula en Pyhton esta en las carpetas
+> La formula en Pyhton esta en las carpetas como "webscrapping"
+
+## Diseñar Estructura De La Base De Datos
+
+Para el diseño de la estructura de datos se utilizó la herramienta MySQL Workbench. Se analizaron las definiciones de las variables, agrupándolas según su área de enfoque. La tabla de hechos contiene la información de ventas y los identificadores correspondientes.
+
+![Esquema ETL](https://github.com/user-attachments/assets/197ac9d7-4a0d-4f0d-9b3b-1f8162aec91e)
 
 
 ## Flujo de  data pipeline
@@ -66,7 +72,7 @@ Margen de beneficios y costos de envío por ubicación.
 
 ![Pipeline](https://github.com/user-attachments/assets/c02bc41d-3241-4743-97c0-15752dc7c9bc)
 
-## Variables elegidas para la unión de tablas 
+### Variables elegidas para la unión de tablas 
 
 - customer_id
 -customer name
