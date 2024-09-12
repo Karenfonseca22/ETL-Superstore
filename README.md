@@ -20,6 +20,15 @@ No tiene ningún valor nulo en la tabla de ventas, se manejarán en la creación
 No se trabajara con market, ni con market2, se creara Market3 que me integra Africa en EMEA
 No se trabajara con la variable unknown porque no me aporta ninguna información
 
+## Buscar Datos De Otras Fuentes (Webscrapping)
+
+Se exporto la tabla de este link para mirar datos de competidores y tenerlos en cuenta para el análisis del comportamiento de superstore. Se utilizo la formula en pyhton y el archivo se descgargo en .csv y fue manejado en BigQuery
+
+![image](https://github.com/user-attachments/assets/74e70c49-e4df-4212-9d0a-eaf68ae06e27)
+
+> La formula en Pyhton esta en las carpetas
+
+
 ## Flujo de  data pipeline
 
 **Origen de los Datos (Ingesta)**
@@ -56,6 +65,31 @@ Evolución de las ventas por semana y año.
 Margen de beneficios y costos de envío por ubicación.
 
 ![Pipeline](https://github.com/user-attachments/assets/c02bc41d-3241-4743-97c0-15752dc7c9bc)
+
+## Variables elegidas para la unión de tablas 
+
+- customer_id
+-customer name
+- Category produtct (mayor y menor profit)
+- Mayor profit by user
+- Menor profit by user
+- first order date, city and country
+- last order date, city and country
+- year
+- Market2 AS market
+- sum (quantity)
+- avg (sales by product)
+- segment
+-first ship_date
+- last ship_date
+- Primer ship mode relacionado con el ship date
+- Ultimp ship mode relacionado con el ultimo ship date del usuario
+- avg shipping cost
+- Discount segun order_id
+- order_priority
+
+# Análisis exploratorio
+
 
 
 
