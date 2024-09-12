@@ -96,6 +96,27 @@ Margen de beneficios y costos de envío por ubicación.
 
 # Análisis exploratorio
 
+![image](https://github.com/user-attachments/assets/49f2c4d5-64e0-418e-8ca8-c9c42d434a38)
+
+![image](https://github.com/user-attachments/assets/71251d01-1962-4927-8187-5b50ca6875ce)
+
+![image](https://github.com/user-attachments/assets/e63b9d16-5d30-42c6-ab82-52877628f532)
+
+![image](https://github.com/user-attachments/assets/265eac04-3c98-40ca-942a-5ca5b62052c2)
+
+![image](https://github.com/user-attachments/assets/3db84c93-8e9c-46ae-9d22-ceebee7f0076)
+
+![image](https://github.com/user-attachments/assets/4d5a6203-d9b4-4927-885c-c892d842d605)
+
+![image](https://github.com/user-attachments/assets/20a7bf4e-60e1-4de9-a9da-cafb6324032e)
+
+**Dashboard**
+https://public.tableau.com/app/profile/karen.fonseca6131/viz/ETLtiendasuperstore/superstoredashboard?publish=yes
+
+
+
+
+
 
 
 
