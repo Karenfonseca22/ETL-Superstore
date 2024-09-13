@@ -137,19 +137,19 @@ Margen de beneficios y costos de envío por ubicación.
 
 # Recomendaciones
 
-## 1. Optimizar estrategias de descuento##
+## 1. Optimizar estrategias de descuento
 
 Dado que el monto total de ventas no está directamente relacionado con los descuentos y la correlación es débil, reconsidera la frecuencia y magnitud de los descuentos ofrecidos. Podría ser más eficaz focalizar los descuentos en productos específicos o durante temporadas clave en lugar de aplicarlos de manera generalizada. Realiza pruebas A/B para evaluar cómo responden los clientes a diferentes estrategias de descuento.
 
-## 2. Identificar y mitigar las bajas estacionales##
+## 2. Identificar y mitigar las bajas estacionales
 
 El bajo rendimiento de ventas en febrero sugiere que hay factores estacionales afectando las compras. **Dado que diciembre presenta el mejor rendimiento del año**, es posible que las estrategias actuales estén enfocadas en la temporada alta de fin de año. Para contrarrestar la baja demanda en febrero, revisa las campañas de marketing y promociones de ese mes, y ajusta la estrategia para incentivar compras. Esto puede incluir promociones especiales o alianzas con otros servicios, así como campañas de marketing que mantengan el impulso de las ventas después de diciembre.
 
-## 3. Reevaluar la estrategia de envío "Same Day"##
+## 3. Reevaluar la estrategia de envío "Same Day"
 
 Considera ajustar los precios del servicio "Same Day" o promover paquetes de envío gratuitos por volumen o para clientes recurrentes. También puedes evaluar si ofrecer incentivos o bonificaciones para la opción de envío más rápido ayudaría a aumentar la demanda, o bien reforzar el enfoque en "Standard Class", que ya genera más ganancias.
 
-## 4. Segmentar mejor a los clientes "Consumer"##
+## 4. Segmentar mejor a los clientes "Consumer"
 
  Dado que el segmento "Consumer" genera la mayor parte de las ganancias, considera crear campañas de fidelización específicamente dirigidas a este grupo. Puedes ofrecer recompensas por compras frecuentes, acceso a descuentos exclusivos o servicios personalizados para fomentar la lealtad y aumentar el valor de cada cliente en este segmento.
 
