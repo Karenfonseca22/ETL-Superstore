@@ -110,11 +110,19 @@ Margen de beneficios y costos de envío por ubicación.
 
 ![image](https://github.com/user-attachments/assets/ee30c1d6-dac4-4984-bbff-b4a7c0932400)
 
-2. En las compras mas recientes (año 2014) por usuario, se perdió una ganancia en el mes de febrero, demostrando también la linea de promedio de total de ventas mas baja en todo el año, es decir en febrero se mostro un monto total de ventas de producto de 21.890 y una ganancia de -331
+2. En las compras mas recientes (año 2014) por usuario, se perdió una ganancia en el mes de febrero, demostrando también la linea de promedio de total de ventas mas baja en todo el año, es decir en febrero se mostro un monto total de ventas de producto de 21.890 y una ganancia de -331$
 
 ![image](https://github.com/user-attachments/assets/13a79a5f-4cd6-4b2d-9c2c-d27fd3e6a48c)
 
- 
+ 3. El modo de envío que genera mayores ganancias es el de "Standard Class", mientras que el que genera menos es "Same Day". Esto podría deberse a que, aunque "Same Day" ofrece mayor comodidad, sus precios pueden ser demasiado altos, lo que reduce la demanda. Una hipótesis a analizar es que los clientes no consideran una prioridad recibir sus pedidos lo más rápido posible.
+
+![image](https://github.com/user-attachments/assets/5d57e5a7-67bc-4571-8c18-3630e5a2be71)
+
+4. El tipo de cliente que mas genera ganancias es el "Consumer", esto puede deberse a que nos representa el 51% de nuestros clientes
+
+![image](https://github.com/user-attachments/assets/072044de-fdf5-4d43-89f1-922d40d56d57)
+
+![image](https://github.com/user-attachments/assets/5b9f68e4-2cf0-40f1-aadd-bc10537ad152)
 
 
 
