@@ -96,39 +96,64 @@ Margen de beneficios y costos de envío por ubicación.
 
 # Análisis exploratorio
 
-![image](https://github.com/user-attachments/assets/c9f7d99b-0c82-4f91-92ec-eebd70075a37)
+**Niveles de prioridad de producto:**
 
-![image](https://github.com/user-attachments/assets/6c8db40f-d9cd-475a-b18d-9ca2b8daebed)
+![image](https://github.com/user-attachments/assets/6f6ba09d-cbfe-4a42-a1ab-9992c5b0b67b)
 
-![image](https://github.com/user-attachments/assets/d3ace57a-3e15-42dd-a378-eebe657ae803)
+**Ganancia generada por categoria de producto:**
+
+![image](https://github.com/user-attachments/assets/01dfe416-43fe-404b-884b-3016f94b5c55)
+
+**Ganancias por región comercial:**
+
+![image](https://github.com/user-attachments/assets/57006771-33a5-4761-8ff3-46dcd2135d05)
+
+**Correlación entre el descuento y las ganancias**
+
+![image](https://github.com/user-attachments/assets/e5dc873c-5b49-4778-9e75-c5d42b7664fc)
+
 
 # Conclusiones
 
-1. El monto total de venta del producto en el pedido no está directamente relacionado con el descuento. A lo largo de los años, se puede observar que, aunque los descuentos han sido similares, el total de ventas ha mostrado variaciones. Además, la correlación general entre las ventas y el descuento presenta una tendencia ligeramente negativa pero débil.
+### 1. El monto total de venta del producto en el pedido no está directamente relacionado con el descuento. A lo largo de los años, se puede observar que, aunque los descuentos han sido similares, el total de ventas ha mostrado variaciones. Además, la correlación general entre las ventas y el descuento presenta una tendencia ligeramente negativa pero débil.
 
 ![image](https://github.com/user-attachments/assets/3db23e44-df16-4964-a694-039616aa479c)
 
 ![image](https://github.com/user-attachments/assets/ee30c1d6-dac4-4984-bbff-b4a7c0932400)
 
-2. En las compras mas recientes (año 2014) por usuario, se perdió una ganancia en el mes de febrero, demostrando también la linea de promedio de total de ventas mas baja en todo el año, es decir en febrero se mostro un monto total de ventas de producto de 21.890 y una ganancia de -331$
+### 2. En las compras mas recientes (año 2014) por usuario, se perdió una ganancia en el mes de febrero, demostrando también la linea de promedio de total de ventas mas baja en todo el año, es decir en febrero se mostro un monto total de ventas de producto de 21.890 y una ganancia de -331$
 
 ![image](https://github.com/user-attachments/assets/13a79a5f-4cd6-4b2d-9c2c-d27fd3e6a48c)
 
- 3. El modo de envío que genera mayores ganancias es el de "Standard Class", mientras que el que genera menos es "Same Day". Esto podría deberse a que, aunque "Same Day" ofrece mayor comodidad, sus precios pueden ser demasiado altos, lo que reduce la demanda. Una hipótesis a analizar es que los clientes no consideran una prioridad recibir sus pedidos lo más rápido posible.
+ ### 3. El modo de envío que genera mayores ganancias es el de "Standard Class", mientras que el que genera menos es "Same Day". Esto podría deberse a que, aunque "Same Day" ofrece mayor comodidad, sus precios pueden ser demasiado altos, lo que reduce la demanda. Una hipótesis a analizar es que los clientes no consideran una prioridad recibir sus pedidos lo más rápido posible.
 
 ![image](https://github.com/user-attachments/assets/5d57e5a7-67bc-4571-8c18-3630e5a2be71)
 
-4. El tipo de cliente que mas genera ganancias es el "Consumer", esto puede deberse a que nos representa el 51% de nuestros clientes
+### 4. El tipo de cliente que mas genera ganancias es el "Consumer", esto puede deberse a que nos representa el 51% de nuestros clientes
 
 ![image](https://github.com/user-attachments/assets/072044de-fdf5-4d43-89f1-922d40d56d57)
 
 ![image](https://github.com/user-attachments/assets/5b9f68e4-2cf0-40f1-aadd-bc10537ad152)
 
+# Recomendaciones
 
+## 1. Optimizar estrategias de descuento##
 
+Dado que el monto total de ventas no está directamente relacionado con los descuentos y la correlación es débil, reconsidera la frecuencia y magnitud de los descuentos ofrecidos. Podría ser más eficaz focalizar los descuentos en productos específicos o durante temporadas clave en lugar de aplicarlos de manera generalizada. Realiza pruebas A/B para evaluar cómo responden los clientes a diferentes estrategias de descuento.
 
-**Dashboard**
-https://public.tableau.com/app/profile/karen.fonseca6131/viz/ETLtiendasuperstore/superstoredashboard?publish=yes
+## 2. Identificar y mitigar las bajas estacionales##
+
+El bajo rendimiento de ventas en febrero sugiere que hay factores estacionales afectando las compras. **Dado que diciembre presenta el mejor rendimiento del año**, es posible que las estrategias actuales estén enfocadas en la temporada alta de fin de año. Para contrarrestar la baja demanda en febrero, revisa las campañas de marketing y promociones de ese mes, y ajusta la estrategia para incentivar compras. Esto puede incluir promociones especiales o alianzas con otros servicios, así como campañas de marketing que mantengan el impulso de las ventas después de diciembre.
+
+## 3. Reevaluar la estrategia de envío "Same Day"##
+
+Considera ajustar los precios del servicio "Same Day" o promover paquetes de envío gratuitos por volumen o para clientes recurrentes. También puedes evaluar si ofrecer incentivos o bonificaciones para la opción de envío más rápido ayudaría a aumentar la demanda, o bien reforzar el enfoque en "Standard Class", que ya genera más ganancias.
+
+## 4. Segmentar mejor a los clientes "Consumer"##
+
+ Dado que el segmento "Consumer" genera la mayor parte de las ganancias, considera crear campañas de fidelización específicamente dirigidas a este grupo. Puedes ofrecer recompensas por compras frecuentes, acceso a descuentos exclusivos o servicios personalizados para fomentar la lealtad y aumentar el valor de cada cliente en este segmento.
+
+ 
 
 
 
