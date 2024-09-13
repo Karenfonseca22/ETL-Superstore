@@ -161,9 +161,9 @@ Considera ajustar los precios del servicio "Same Day" o promover paquetes de env
 
 
 
-| Video Loom | Dashboard | Exploratorio en Python | Presentación |
-|----------|------------|-----------|------------------------|--------------|
-| Link video | [Link Dashboard](https://public.tableau.com/app/profile/karen.fonseca6131/viz/ETLtiendasuperstore/superstoredashboard) | [Link Google Colab](https://colab.research.google.com/drive/19h8FP2hlObgauDXCdeP4jGDtaagbRHZb?usp=sharing) | Link ppt |
+| Video Loom    | Dashboard  | Exploratorio en Python   | Presentación  |
+|---------------|------------|--------------------------|---------------|
+| Link video    | [Link Dashboard](https://public.tableau.com/app/profile/karen.fonseca6131/viz/ETLtiendasuperstore/superstoredashboard) | [Link Google Colab](https://colab.research.google.com/drive/19h8FP2hlObgauDXCdeP4jGDtaagbRHZb?usp=sharing) | Link ppt      |
 
 
 
