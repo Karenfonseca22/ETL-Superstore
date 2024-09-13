@@ -96,19 +96,28 @@ Margen de beneficios y costos de envío por ubicación.
 
 # Análisis exploratorio
 
-![image](https://github.com/user-attachments/assets/49f2c4d5-64e0-418e-8ca8-c9c42d434a38)
+![image](https://github.com/user-attachments/assets/c9f7d99b-0c82-4f91-92ec-eebd70075a37)
 
-![image](https://github.com/user-attachments/assets/71251d01-1962-4927-8187-5b50ca6875ce)
+![image](https://github.com/user-attachments/assets/6c8db40f-d9cd-475a-b18d-9ca2b8daebed)
 
-![image](https://github.com/user-attachments/assets/e63b9d16-5d30-42c6-ab82-52877628f532)
+![image](https://github.com/user-attachments/assets/d3ace57a-3e15-42dd-a378-eebe657ae803)
 
-![image](https://github.com/user-attachments/assets/265eac04-3c98-40ca-942a-5ca5b62052c2)
+# Conclusiones
 
-![image](https://github.com/user-attachments/assets/3db84c93-8e9c-46ae-9d22-ceebee7f0076)
+1. El monto total de venta del producto en el pedido no está directamente relacionado con el descuento. A lo largo de los años, se puede observar que, aunque los descuentos han sido similares, el total de ventas ha mostrado variaciones. Además, la correlación general entre las ventas y el descuento presenta una tendencia ligeramente negativa pero débil.
 
-![image](https://github.com/user-attachments/assets/4d5a6203-d9b4-4927-885c-c892d842d605)
+![image](https://github.com/user-attachments/assets/3db23e44-df16-4964-a694-039616aa479c)
 
-![image](https://github.com/user-attachments/assets/20a7bf4e-60e1-4de9-a9da-cafb6324032e)
+![image](https://github.com/user-attachments/assets/ee30c1d6-dac4-4984-bbff-b4a7c0932400)
+
+2. En las compras mas recientes (año 2014) por usuario, se perdió una ganancia en el mes de febrero, demostrando también la linea de promedio de total de ventas mas baja en todo el año, es decir en febrero se mostro un monto total de ventas de producto de 21.890 y una ganancia de -331
+
+![image](https://github.com/user-attachments/assets/13a79a5f-4cd6-4b2d-9c2c-d27fd3e6a48c)
+
+ 
+
+
+
 
 **Dashboard**
 https://public.tableau.com/app/profile/karen.fonseca6131/viz/ETLtiendasuperstore/superstoredashboard?publish=yes
