@@ -153,7 +153,18 @@ Considera ajustar los precios del servicio "Same Day" o promover paquetes de env
 
  Dado que el segmento "Consumer" genera la mayor parte de las ganancias, considera crear campañas de fidelización específicamente dirigidas a este grupo. Puedes ofrecer recompensas por compras frecuentes, acceso a descuentos exclusivos o servicios personalizados para fomentar la lealtad y aumentar el valor de cada cliente en este segmento.
 
- 
+ # Dashboard
+
+ ![image](https://github.com/user-attachments/assets/50a6bbaa-c6ee-4f80-b26f-e347a98ac478)
+
+ ![image](https://github.com/user-attachments/assets/29c05bad-6d6d-455a-9d83-8c07c4acab68)
+
+
+
+| Video Loom | Dashboard | Exploratorio en Python | Presentación |
+|----------|------------|-----------|------------------------|--------------|
+| Link video | [Link Dashboard](https://public.tableau.com/app/profile/karen.fonseca6131/viz/ETLtiendasuperstore/superstoredashboard) | [Link Google Colab](https://colab.research.google.com/drive/19h8FP2hlObgauDXCdeP4jGDtaagbRHZb?usp=sharing) | Link ppt |
+
 
 
 
