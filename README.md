@@ -1,5 +1,10 @@
 # ETL-Superstore
 
+Herramientas a utilizar: 
+
+<img src="https://github.com/user-attachments/assets/61e38e25-c9ff-4710-ae30-91f96e923760" alt="image" width="100"/> <img src="https://github.com/user-attachments/assets/2242ea5b-e4e3-4d14-b251-1bb428ab20f4" alt="image" width="100"/> <img src="https://github.com/user-attachments/assets/c04bd79c-5f23-48f9-927d-4d8828f62470" alt="image" width="200"/> <img src="https://github.com/user-attachments/assets/8909ff62-0fd5-46d5-8732-3dc70f6047fd" alt="image" width="100"/>
+
+
 La gestión eficiente de datos se ha convertido en un factor crítico para el éxito de las organizaciones. Super Store, una empresa líder en el sector, se enfrenta al desafío de manejar grandes volúmenes de datos dispersos y no estructurados. Para abordar esta problemática, y para potenciar la toma de decisiones informada, se propone la implementación de un robusto sistema ETL (Extract, Transform, Load. Extraer, transformar y cargar) con tablas de hecho y dimensiones.
 
 Este proyecto se enfoca en la creación de un sistema integral que permita extraer datos de diversas fuentes, transformarlos según las necesidades específicas de Super Store, y cargarlos de manera eficiente en un almacén de datos organizado.
