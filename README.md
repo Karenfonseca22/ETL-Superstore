@@ -168,7 +168,7 @@ Considera ajustar los precios del servicio "Same Day" o promover paquetes de env
 
 | Video Loom    | Dashboard  | Exploratorio en Python   | Presentación  |
 |---------------|------------|--------------------------|---------------|
-| Link video    | [Link Dashboard](https://public.tableau.com/app/profile/karen.fonseca6131/viz/ETLtiendasuperstore/superstoredashboard) | [Link Google Colab](https://colab.research.google.com/drive/19h8FP2hlObgauDXCdeP4jGDtaagbRHZb?usp=sharing) | [Link Presentación](https://www.canva.com/design/DAGQrt59Ob0/u9W1XHhmqZ5P3_8Uwn--jA/edit?utm_content=DAGQrt59Ob0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| [Link Video](https://www.loom.com/share/d78b0a8b145e421487683a99b89b7c7a?sid=8eee5fff-1e63-4e09-992c-e4a77099cb9d)    | [Link Dashboard](https://public.tableau.com/app/profile/karen.fonseca6131/viz/ETLtiendasuperstore/superstoredashboard) | [Link Google Colab](https://colab.research.google.com/drive/19h8FP2hlObgauDXCdeP4jGDtaagbRHZb?usp=sharing) | [Link Presentación](https://www.canva.com/design/DAGQrt59Ob0/u9W1XHhmqZ5P3_8Uwn--jA/edit?utm_content=DAGQrt59Ob0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 
 
 
